@@ -1,5 +1,7 @@
+import { QuotesPage } from "@/views/QuotesPage/ui/QuotesPage";
+
 const Page = () => {
-  return <div></div>;
+  return <QuotesPage />;
 };
 
 export default Page;
